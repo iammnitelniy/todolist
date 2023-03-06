@@ -8,7 +8,7 @@ export type TaskType = {
     title: string
     isDone: boolean
 }
-
+//check
 function App(): JSX.Element {
 // JSX =>
     const tasks: TaskType[] = [
